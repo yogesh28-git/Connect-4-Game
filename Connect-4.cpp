@@ -236,6 +236,9 @@ class Gameplay : Grid
         bool rulesMessage()
         {
             char input;
+            cout<<"+-------------------------------------------+"<<endl;
+            cout<<"|                CONNECT-4                  |"<<endl;
+            cout<<"+-------------------------------------------+"<<endl<<endl;
             cout<<endl;
             cout<<"RULES:"<<endl<<endl;
             cout<<"1. Two-player (red(R) & blue(B)) game."<<endl;
